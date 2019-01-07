@@ -11,4 +11,4 @@ tags:
   - Microsoft
 ---
 
-{% include_relative bill-gates.md %}
+{% include_relative bio-gates.md %}
